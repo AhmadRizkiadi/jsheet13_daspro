@@ -1,3 +1,6 @@
+# Created by Ahmad Rizkiadi
+# Politekik Negeri Semarang
+
 def guess_number():
     secret_number = 9
     guess = 0
